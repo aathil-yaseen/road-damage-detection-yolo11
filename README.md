@@ -1,6 +1,5 @@
-Road damage detection using YOLO11 and PyTorch
 
-# Road Damage Detection using YOLO11
+# Road Damage Detection using YOLO11 and PyTorch
 
 ## Overview
 
